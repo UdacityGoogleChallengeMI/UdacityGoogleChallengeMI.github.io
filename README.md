@@ -11,7 +11,7 @@ It's specially for Michigander but we open to other interested can join here. Fe
 
 **Screenshot**: Here's a home page screenshot, how's look like on web browser.
 
-![](https://raw.githubusercontent.com/cfpb/open-source-project-template/master/screenshot.png)
+![](https://gwgusp.github.io/assets/img/screenshot.PNG)
 
 ## Usage
 
@@ -35,3 +35,4 @@ You don't need to install any big software other than git and simple text editor
 
 1. [Google-Udacity Scholarship Program](https//udacity.com)
 2. [Bootstrap front-end framework](getbootstrap.com)
+
