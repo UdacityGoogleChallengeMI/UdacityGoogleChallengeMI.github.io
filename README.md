@@ -13,7 +13,7 @@ Other things to include:
 
 **Screenshot**: If the software has visual components, place a screenshot after the description; e.g.,
 
-![](https://raw.githubusercontent.com/cfpb/open-source-project-template/master/screenshot.png)
+![](https://gwgusp.github.io/assets/img/screenshot.PNG)
 
 
 ## Dependencies
