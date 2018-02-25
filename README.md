@@ -16,9 +16,9 @@ It's specially for Michigander but we open to other interested can join here. Fe
 ## Usage
 
 Clone repo on your local machine via command line
-1. git clone https://github.com/gwgusp/gwgusp.github.io.git
-2. cd gwgusp.github.io
-3. Create a github branch: git checkout -b "branch-name"
+1. `git clone https://github.com/gwgusp/gwgusp.github.io.git`
+2. `cd gwgusp.github.io`
+3. Create a github branch: `git checkout -b "branch-name"`
 4. Open project into your favorite text editor 
 5. Changes anything and push to your branch 
 6. Create pull request to original repo
