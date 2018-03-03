@@ -23,16 +23,13 @@ Clone repo on your local machine via command line
 5. Changes anything and push to your branch 
 6. Create pull request to original repo
 
-## Dependencies
-
-N/A
-
 ## Installation
 
 You don't need to install any big software other than git and simple text editor.
+- [Learn more about Git & Github](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
 
 ## Credits and references
 
-1. [Google-Udacity Scholarship Program](https//udacity.com)
-2. [Bootstrap front-end framework](getbootstrap.com)
+1. [Google-Udacity Scholarship Program](https//www.udacity.com)
+2. [Bootstrap front-end framework](https://www.getbootstrap.com)
 
