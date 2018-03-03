@@ -30,6 +30,6 @@ You don't need to install any big software other than git and simple text editor
 
 ## Credits and references
 
-1. [Google-Udacity Scholarship Program](https//www.udacity.com)
+1. [Google Udacity Scholarship Program](https//www.udacity.com)
 2. [Bootstrap front-end framework](https://www.getbootstrap.com)
 
