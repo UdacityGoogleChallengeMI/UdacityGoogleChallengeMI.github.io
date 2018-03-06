@@ -13,15 +13,17 @@ It's specially for Michigander but we open to other interested can join here. Fe
 
 ![](https://gwgusp.github.io/assets/img/screenshot.PNG)
 
-## Usage
+## How do I link my project to this repository?
 
-Clone repo on your local machine via command line
-1. `git clone https://github.com/gwgusp/gwgusp.github.io.git`
-2. `cd gwgusp.github.io`
-3. Create a github branch: `git checkout -b "branch-name"`
-4. Open project into your favorite text editor 
-5. Changes anything and push to your branch 
-6. Create pull request to original repo
+Follow the simple following steps:
+1. Fork this this repository to your github account from fork tab
+2. Clone repo `git clone https://github.com/your-username/gwgusp.github.io.git`
+3. Change directory `cd gwgusp.github.io`
+4. Create a github branch: `git checkout -b "branch-name"` this is optional
+5. Open project into your favorite text editor `Atom, VS Code, Sublime`
+6. Add your project with project link and project screenshot image
+7. Push to your branch or direct master branch if you didn't create different branch `git push origin branch-name`
+8. Create pull request to original repository from Pull Request tab
 
 ## Installation
 
