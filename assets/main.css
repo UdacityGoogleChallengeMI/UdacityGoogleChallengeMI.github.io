@@ -1,12 +1,17 @@
 :root {
-    --jumbotron-padding-y: 3rem;
+    --jumbotron-padding-y: 6rem;
   }
-  
+
   .jumbotron {
+    color: white;
+    min-height: 540px;
     padding-top: var(--jumbotron-padding-y);
     padding-bottom: var(--jumbotron-padding-y);
     margin-bottom: 0;
-    background-color: #fff;
+    background: #1FA2FF;
+    background: -webkit-linear-gradient(to left, #06a6da, 0d90c9, #1c5ea3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #06a6da, #0d90c9, #1c5ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 0;
   }
   @media (min-width: 768px) {
     .jumbotron {
@@ -14,20 +19,48 @@
       padding-bottom: calc(var(--jumbotron-padding-y) * 2);
     }
   }
-  
-  .jumbotron p:last-child {
-    margin-bottom: 0;
-  }
-  
+
   .jumbotron-heading {
-    font-weight: 300;
+    font-weight: 400;
+    margin-bottom: 15px;
   }
+
+  .jumbotron .text-muted {
+    color: #f6f6f6 !important;
+    width: 70%;
+    margin-bottom: 22px;
+  }
+
+  section {
+    padding: 60px 0;
+  }
+
+  .bg-primary {
+    background-color: #1c5ea3!important;
+}
+/* Main-Header Style */
+.main-header {
+  border-bottom: 1px solid #f6f6f6;
+}
   
-  .jumbotron .container {
-    max-width: 40rem;
+  /* Page Header Style*/
+  .page-header {
+    padding: 20px 0;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .page-header h2 {
+    font-weight: 400;
+    line-height: 25px;
+  }
+.hr-120 {
+      width: 120px;
+      background: #06a6da;
+      height: 2px;
   }
   
   footer {
+    background-color: #0c151a;
     padding-top: 3rem;
     padding-bottom: 3rem;
   }
