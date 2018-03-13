@@ -7,6 +7,7 @@ It's specially for Michigander but we open to other interested can join here. Fe
   - **Status**: Beta version.
   - **Links to production or demo instances**
   - [Here's link live website](https://gwgusp.github.io)
+  - updated pull request from original repository `git remote add upstream https://github.com/gwgusp/gwgusp.github.io.git`
 
 
 **Screenshot**: Here's a home page screenshot, how's look like on web browser.
