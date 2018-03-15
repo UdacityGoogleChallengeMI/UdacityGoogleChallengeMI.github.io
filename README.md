@@ -7,7 +7,10 @@ It's specially for Michigander but we open to other interested can join here. Fe
   - **Status**: Beta version.
   - **Links to production or demo instances**
   - [Here's link live website](https://gwgusp.github.io)
-  - updated pull request from original repository `git remote add upstream https://github.com/gwgusp/gwgusp.github.io.git`
+  - updated pull request from original repository 
+   ```
+   git remote add upstream https://github.com/gwgusp/gwgusp.github.io.git
+   ```
 
 
 **Screenshot**: Here's a home page screenshot, how's look like on web browser.
@@ -18,7 +21,10 @@ It's specially for Michigander but we open to other interested can join here. Fe
 
 Follow the simple following steps:
 1. Fork this this repository to your github account from fork tab
-2. Clone repo `git clone https://github.com/your-username/gwgusp.github.io.git`
+2. Clone repo 
+```
+git clone https://github.com/your-username/gwgusp.github.io.git
+```
 3. Change directory `cd gwgusp.github.io`
 4. Create a github branch: `git checkout -b "branch-name"` this is optional
 5. Open project into your favorite text editor `Atom, VS Code, Sublime`
